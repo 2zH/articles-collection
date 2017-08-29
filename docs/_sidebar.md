@@ -1,3 +1,3 @@
 - Hello World
   - Plugins
-    - [accordion](https://raw.githubusercontent.com/2zH/Re-Zero-weekly-articles/blob/master/README.md)
+    - [accordion](https://raw.githubusercontent.com/2zH/Re-Zero-weekly-articles/master/README.md)
