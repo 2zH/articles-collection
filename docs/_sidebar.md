@@ -1,1 +1,1 @@
-- [Readme](https://raw.githubusercontent.com/2zH/Re-Zero-weekly-articles/master/README.md)
+- [Readme](readme.md)
