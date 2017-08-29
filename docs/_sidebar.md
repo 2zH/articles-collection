@@ -1,2 +1,1 @@
-- Hello World
-  - [README](https://raw.githubusercontent.com/2zH/Re-Zero-weekly-articles/master/README.md)
+- [Readme](https://raw.githubusercontent.com/2zH/Re-Zero-weekly-articles/master/README.md)
